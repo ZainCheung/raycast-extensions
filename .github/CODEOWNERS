@@ -407,6 +407,7 @@
 /extensions/crossbell                                               @Songkeys @hyoban
 /extensions/crunchbase                                              @qdequele
 /extensions/cryptgeon                                               @cupcakearmy
+/extensions/crypto-portfolio-tracker                                @narghev
 /extensions/crypto-price                                            @gutenye
 /extensions/crypto-search                                           @MatrixA
 /extensions/csfd                                                    @AdamVyborny
@@ -459,7 +460,7 @@
 /extensions/deepcast                                                @mooxl @peter-gy @Popalay @MonsterDeveloper @YamenSharaf @EvanZhouDev @erics118 @riadhrebei @ishassan @shashankxrm @heyFlorentin @ridemountainpig
 /extensions/deepl-api-usage                                         @DophinL @pernielsentikaer
 /extensions/deepseeker                                              @ViGeng @degouville
-/extensions/deepwiki                                                @viveknair @toFrankie
+/extensions/deepwiki                                                @viveknair @tofrankie
 /extensions/defbro                                                  @jfernandogt @wmorland
 /extensions/defichain-dobby                                         @adrian-schnell
 /extensions/defichain-lottery                                       @adrian-schnell @pernielsentikaer
@@ -1610,7 +1611,7 @@
 /extensions/qonto                                                   @ChristoRibeiro
 /extensions/qotp                                                    @ariesly15
 /extensions/qovery                                                  @RemiBonnet
-/extensions/qq-music-controls                                       @jwickers @ViGeng @toFrankie
+/extensions/qq-music-controls                                       @jwickers @ViGeng @tofrankie
 /extensions/qr-code-scanner                                         @StevenRCE0
 /extensions/qrcode-generator                                        @Melvynx @hetommy @mathieudutour @pernielsentikaer @hetommy @MatteoGauthier @seewhy163 @ridemountainpig
 /extensions/qrcp                                                    @yohann84L
@@ -1814,7 +1815,7 @@
 /extensions/screen-saver                                            @koinzhang
 /extensions/screen-sharing-recents                                  @m-hall
 /extensions/screen-studio                                           @pie6k
-/extensions/screenocr                                               @neo773 @anwarulislam @xilopaint
+/extensions/screenocr                                               @neo773 @anwarulislam @xilopaint @pernielsentikaer
 /extensions/screenpipe                                              @neo773
 /extensions/screenshot                                              @Aayush9029 @nirtamir2
 /extensions/script-commands                                         @unnamedd
@@ -2313,7 +2314,7 @@
 /extensions/website-blocker                                         @gersomvg @pernielsentikaer
 /extensions/websocket-debugging                                     @RhysLees
 /extensions/wechat                                                  @raffeyang @JokeNeverSoke @LitoMore
-/extensions/wechat-devtool                                          @toFrankie
+/extensions/wechat-devtool                                          @tofrankie
 /extensions/week-number                                             @koinzhang
 /extensions/weread-sync                                             @changbinwang
 /extensions/what-happened-today                                     @nikhiltiwari0
